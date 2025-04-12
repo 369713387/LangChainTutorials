@@ -1,0 +1,6 @@
+{
+    "api_key": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "deepseek_model": "deepseek-r1",
+    "qwen_model": "qwen-turbo"
+} 
